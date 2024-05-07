@@ -12,7 +12,7 @@
   
  🌱 I’m currently learning **Docker, Azure**
 
-💬 Ask me about **Node.js, React, NextJs, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, NextJs, Firebase... or anything [here](https://github.com/asp21k/asp21k/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
