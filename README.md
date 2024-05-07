@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=asp21k.asp21k" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Atharva+PArdeshi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&weight=900&size=35&duration=3000&pause=1000&color=F7700E&random=true&width=500&height=700&lines=Hi+There!+%F0%9F%91%8B;+I'm+Atharva+Pardeshi!+%F0%9F%98%8E" />
 </h1>
 
 <h3 align="center">A passionate software developer from Pune, India </h3>
